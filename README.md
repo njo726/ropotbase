@@ -1,0 +1,2 @@
+# ropotbase
+nameofmyrepositry
